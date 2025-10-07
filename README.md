@@ -112,3 +112,6 @@ The analysis demonstrates that **coupon acceptance is influenced by a mix of per
 - Coffee house and inexpensive restaurant coupons showed broader demographic appeal compared to bar coupons.  
 
 These insights can help businesses **target promotions more effectively** by tailoring offers to user profiles and contextual scenarios.  
+
+### Detailed Analysis
+- https://github.com/satyas26/ML_AI_Learnings/blob/main/Practical_Application_1/prompt.ipynb
