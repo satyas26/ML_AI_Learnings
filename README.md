@@ -82,7 +82,7 @@ Below are selected visualizations from the analysis. For the full set of plots, 
   ![Bar Acceptance by Age](/Practical_Application_1/images/bar_coupon_accept_age.png)  
 
 - **Acceptance by Weather**  
-  ![Bar Acceptance by Weather](/Practical_Application_1/images/bar_acceptance_weather.png)  
+  ![Bar Acceptance by Weather](/Practical_Application_1/images/histogram_temperature_accepted.png)  
 
 
 ### Restaurant (< $20) Coupon Investigation  
