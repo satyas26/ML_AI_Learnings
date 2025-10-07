@@ -73,34 +73,34 @@ Below are selected visualizations from the analysis. For the full set of plots, 
 ### Bar Coupon Investigation  
 
 - **Acceptance by Coupon Type**  
-  ![Acceptance by Coupon Type](images/bar_plot_coupon_type_accepted.png)  
+  ![Acceptance by Coupon Type](/Practical_Application_1/images/bar_plot_coupon_type_accepted.png)  
   
 - **Acceptance by Frequency of Bar Visits**  
-  ![Bar Acceptance by Visits](images/bar_coupon_freq_bar_visits.png)  
+  ![Bar Acceptance by Visits](/Practical_Application_1/images/bar_coupon_freq_bar_visits.png)  
 
 - **Acceptance by Age Group**  
-  ![Bar Acceptance by Age](images/bar_coupon_accept_age.png)  
+  ![Bar Acceptance by Age](/Practical_Application_1/images/bar_coupon_accept_age.png)  
 
 - **Acceptance by Weather**  
-  ![Bar Acceptance by Weather](images/bar_acceptance_weather.png)  
+  ![Bar Acceptance by Weather](/Practical_Application_1/images/bar_acceptance_weather.png)  
 
 
 ### Restaurant (< $20) Coupon Investigation  
 
 - **Overall Acceptance Rate**  
-  ![Restaurant (< $20) Coupon Acceptance Overall](images/restaurant_coupon_acceptance.png)  
+  ![Restaurant (< $20) Coupon Acceptance Overall](/Practical_Application_1/images/restaurant_coupon_acceptance.png)  
 
 - **Acceptance by Companions (Alone, Partner, Kids, Friends)**  
-  ![Restaurant Acceptance by Companions](images/restaurant_coupon_occupancy.png)  
+  ![Restaurant Acceptance by Companions](/Practical_Application_1/images/restaurant_coupon_occupancy.png)  
 
 - **Acceptance by Marital Status**  
-  ![Restaurant Acceptance by Marital Status](images/restaurant_coupon_marital_status.png)
+  ![Restaurant Acceptance by Marital Status](/Practical_Application_1/images/restaurant_coupon_marital_status.png)
 
 - **Restaurant (< $20) Coupon usage by Occupation**  
-  ![Restaurant coupon usage by Occupation](images/restaurant_coupon_gender_occupation.png)
+  ![Restaurant coupon usage by Occupation](/Practical_Application_1/images/restaurant_coupon_gender_occupation.png)
 
 - **Restaurant (< $20) Coupon acceptance by destination**  
-  ![Restaurant coupon acceptance by destination](images/restaurant_coupon_destination.png)   
+  ![Restaurant coupon acceptance by destination](/Practical_Application_1/images/restaurant_coupon_destination.png)   
 
 ---
 
