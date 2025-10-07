@@ -108,8 +108,8 @@ Below are selected visualizations from the analysis. For the full set of plots, 
 The analysis demonstrates that **coupon acceptance is influenced by a mix of personal, contextual, and situational factors**.  
 
 - **Bar Coupons** appealed to younger, socially active passengers without children, especially in good weather.  
-- **Restaurant (< $20) Coupons** were broadly popular, particularly among younger groups and when passengers were traveling with friends during lunch hours.  
-- Coffee house and inexpensive restaurant coupons showed broader demographic appeal compared to bar coupons.  
+- **Restaurant (< $20) Coupons** were broadly popular, particularly among younger groups and when passengers were traveling with friends during lunch hours or traveling alone.  
+- Inexpensive restaurant coupons showed broader demographic appeal compared to bar coupons.  
 
 These insights can help businesses **target promotions more effectively** by tailoring offers to user profiles and contextual scenarios.  
 
